@@ -18,6 +18,11 @@
   background-color: #2b36cc;
 }
 
+.collapse-button:active {
+  border: none;
+  background-color: #232dad;
+}
+
 .text-container {
   transition: 1s;
   height: 0px;

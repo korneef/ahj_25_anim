@@ -1,3 +1,3 @@
-[![Build Status](https://api.cirrus-ci.com/github/korneef/ajs_25_forms.svg)](https://cirrus-ci.com/github/korneef/ajs_25_forms)
+[![Build Status](https://api.cirrus-ci.com/github/korneef/ahj_25_anim.svg)](https://cirrus-ci.com/github/korneef/ahj_25_anim)
 
-https://korneef.github.io/ajs_25_forms
+https://korneef.github.io/ahj_25_anim
